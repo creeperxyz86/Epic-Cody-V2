@@ -1,5 +1,5 @@
 <!--
-Theme name:  Epic Aeolous
+Theme name:  Epic Cody V2
 Artwork by:  Aeolus
 Coding by:   Aeolus
 Fonts used:  Acre Medium & Bison Bold
@@ -109,7 +109,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <backgroundColor>00000000</backgroundColor>
         <forceUppercase>1</forceUppercase>
-        <color>912293</color>
+        <color>FFAE00</color>
         <origin>0 0</origin>
         <pos>0.003 0.62</pos>
         <size>0.400 0.042</size>
@@ -148,7 +148,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <textlist name="gamelist">
         <selectorColor>1c1c1c</selectorColor>
-        <selectedColor>912293</selectedColor>
+        <selectedColor>FFAE00</selectedColor>
         <selectorHeight>0.05</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
@@ -185,7 +185,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Bison-Bold.ttf</fontPath>
         <alignment>right</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>912293</color>
+        <color>FFAE00</color>
         <fontSize>0.060</fontSize>
         <origin>0 0</origin>
         <pos>0.1 0.02</pos>
@@ -215,7 +215,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.02</fontSize>
-        <color>912293</color>
+        <color>FFAE00</color>
         <origin>0 0</origin>
         <pos>0.339 0.630</pos>
         <size>0.06 0.2</size>
