@@ -1,4 +1,4 @@
-# ArkOS Theme based on EpicNoir & EpicCody
+# ArkOS Theme based on EpicAeolus
 Emulation Station theme fit for R35S & R36S
 fork of the EpicNoir modified to fit the R35S & R36S
 
